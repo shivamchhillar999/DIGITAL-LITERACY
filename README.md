@@ -25,7 +25,7 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → https://github.com/anuragtiwari8006-dev
+GitHub →  https://github.com/shivamchhillar999
 
 LinkedIn → https://www.linkedin.com/in/shivam-kumar-11973b3bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
